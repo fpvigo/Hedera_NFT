@@ -1,0 +1,22 @@
+{
+    "creator": "Did Coding",
+    "description": "demo",
+    "format": "none",
+    "image": "ipfs://Qmf2ZzEwRiPCNyFexgy1RNi6pzVVacdrS8K1vCjuK96Q4M",
+    "name": "testing traits",
+    "properties": [
+        {
+            "trait_type": "base",
+            "value": "Red"
+        },
+        {
+            "trait_type": "pants",
+            "value": "Naked"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tone 2"
+        }
+    ],
+    "type": "image/png"
+}
